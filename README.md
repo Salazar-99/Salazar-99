@@ -1,4 +1,4 @@
-# Hi, I'm Gerardo
+![Hi' I'm Gerardo](image.png)
 
 ## 🧑‍🦱 About Me
 I am currently working as a Data Scientist / Software Engineer in Houston, TX. I love learning about all things technology and software. 
